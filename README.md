@@ -166,7 +166,6 @@ Open the RX sketch and adjust:
 ![Finished car](docs/images/photo_car.jpg)  
 ![Handheld transmitter](docs/images/photo_remote.jpg)
 
-*(Replace with your photos; keep resolutions reasonable for GitHub.)*
 
 ---
 
