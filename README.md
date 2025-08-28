@@ -20,7 +20,7 @@ Joystick → UNO (reads X/Y/SW) → FS1000A 433 MHz → *over-the-air packets*
 433 MHz receiver → UNO (decodes joystick) → L298N → 4× DC motors
 
 ![Wiring overview](docs/images/wiring.png)  
-*(Add your PNG circuit diagram here)*
+*[(circuit diagram here)](https://app.cirkitdesigner.com/project/091b2a7f-d129-472b-a75a-bb8575c8d020)*
 
 ---
 
