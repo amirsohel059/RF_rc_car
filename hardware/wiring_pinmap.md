@@ -45,8 +45,7 @@
 ```
 
 
-acess the full ckt here 
-https://app.cirkitdesigner.com/project/091b2a7f-d129-472b-a75a-bb8575c8d020
+[acess the full ckt here](https://app.cirkitdesigner.com/project/091b2a7f-d129-472b-a75a-bb8575c8d020)
 
 ## Notes
 - Add ≥1000 µF across L298N +12V/GND, 470–1000 µF at buck input, and 0.1 µF near each module.
